@@ -29,7 +29,7 @@ Welcome to the Zombie Parade Game, a thrilling C++ adventure where players witne
   ```bash
   ./exe
   ```
-2. Dive into the zombie parade world and follow on-screen prompts for an immersive gaming experience.
+2. Dive into the zombie parade world and follow on-screen prompts for a joyful experience.
 
 ## Features
 - Dynamic management of a zombie parade using an advanced linked list structure.
