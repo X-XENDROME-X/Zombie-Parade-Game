@@ -27,7 +27,7 @@ Welcome to the Zombie Parade Game, a thrilling C++ adventure where players witne
 
 1. Run the compiled game:
   ```bash
-  ./zombie_parade
+  ./exe
   ```
 2. Dive into the zombie parade world and follow on-screen prompts for an immersive gaming experience.
 
