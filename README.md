@@ -42,6 +42,6 @@ Welcome to the Zombie Parade Game, a thrilling C++ adventure where players witne
 - Brains Extravaganza: Witness a unique event where zombie's brains take centre stage.
 
 ## Building the Parade
-- The game unfolds through rounds, each introducing random events and exciting actions. Zombies perform actions like marching in the front, joining the caboose, or     
-  engaging in friendly zombie fights. The game continues until only one color of zombie remains, declaring the ultimate winner of the parade.
+- The game unfolds through rounds, each introducing random events and exciting actions. Zombies perform actions like marching in the front, joining the caboose, or
+engaging in friendly zombie fights. The game continues until only one color of zombie remains, declaring the ultimate winner of the parade.
 
