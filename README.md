@@ -13,7 +13,7 @@ Welcome to the Zombie Parade Game, a thrilling C++ adventure where players witne
 
 1. Clone the repository:
   ```bash
-  git clone https://github.com/your-username/zombie-parade-game.git
+  git clone https://github.com/X-XENDROME-X/zombie-parade-game.git
   ```
 2. Navigate to the project directory:
   ```bash
